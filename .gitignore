@@ -1,3 +1,18 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
